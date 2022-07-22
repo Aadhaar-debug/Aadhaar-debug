@@ -3,26 +3,23 @@
 
 <p align="left"> <img src="https://www.linkedin.com/in/aadhaar-koul-7271b6204/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2BYvxtu9S56b%2F7OuzoXPAQ%3D%3D" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architprasar" alt="architprasar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aadhaar-debug" alt="Aadhaar-debug" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prasararchit" target="blank"><img src="https://img.shields.io/twitter/follow/prasararchit?logo=twitter&style=for-the-badge" alt="prasararchit" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/aadhaarkoul" target="blank"><img src="https://img.shields.io/twitter/follow/prasararchit?logo=twitter&style=for-the-badge" alt="prasararchit" /></a> </p> -->
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Network Penetration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/architprasar](https://github.com/architprasar)
+- 👨‍💻 All of my projects are available at [https://github.com/Aadhaar-debug](https://github.com/Aadhaar-debug)
 
-- 💬 Ask me about **Python, Django, React.js and JavaScript**
+- 💬 Ask me about **Shell Scripting , Payload Generation / Reverse Engineering and Operating Systems / Virtual environments**
 
-- 📫 How to reach me **architprasar@gmail.com**
+- 📫 How to reach me **aadhaarkoul2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/archit-prasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="archit-prasar" height="30" width="40" /></a>
-<a href="https://twitter.com/prasararchit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasararchit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/archit-prasar-854b0b12a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit-prasar-854b0b12a" height="30" width="40" /></a>
-<a href="https://instagram.com/architprasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="architprasar" height="30" width="40" /></a>
-<a href="https://dribbble.com/architprasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="architprasar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/architprasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="architprasar" height="30" width="40" /></a>
+
+<a href="https://twitter.com/aadhaarkoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadhaarkoul" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
