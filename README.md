@@ -43,8 +43,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg)
 
-  
-
+ 
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aadhaar-debug" />
