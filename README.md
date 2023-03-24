@@ -49,19 +49,16 @@
 <!--   grid-snake -->
 ![](https://github.com/Aadhaar-debug/Aadhaar-debug/blob/output/github-contribution-grid-snake.svg)
 
- skyline 
-<a href="https://skyline.github.com/Aadhaar-debug/2022"></a>
-
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Aadhaar-debug&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aadhaar-debug/Aadhaar-debug/master/assets/twitter.svg" alt="Aadhaar-debug" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aadhaar-debug/Aadhaar-debug/master/assets/linkedin.svg" alt="Aadhaar-debug" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aadhaar-debug/Aadhaar-debug/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+
+<a href="https://www.linkedin.com/in/aadhaar-koul-7271b6204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aadhaar-debug/Aadhaar-debug/master/assets/linkedin.svg" alt="Aadhaar-debug" height="30" width="30" /></a>
+<a href="aadhaarkoul2002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Aadhaar-debug/Aadhaar-debug/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=+91 6005846156" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
 <div align="center">
