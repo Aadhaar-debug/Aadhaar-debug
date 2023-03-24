@@ -49,8 +49,8 @@
 <!--   grid-snake -->
 ![](https://github.com/Aadhaar-debug/Aadhaar-debug/blob/output/github-contribution-grid-snake.svg)
 
-  skyline 
-<a href="https://skyline.github.com/Aadhaar-debug/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+ skyline 
+<a href="https://skyline.github.com/Aadhaar-debug/2022"></a>
 
 
 <!--  2d history skills -->
