@@ -44,9 +44,7 @@
 
 
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aadhaar-debug" alt="Aadhaar-debug" /></a>
-</p>
+
 
 
 
@@ -70,6 +68,11 @@
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Aadhaar-debug&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
+
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aadhaar-debug" alt="Aadhaar-debug" /></a>
+</p>
 
 **📫 How to Reach me:**
 <p align="left">
