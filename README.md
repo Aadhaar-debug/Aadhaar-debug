@@ -91,6 +91,9 @@
 <img src="certificates.png" alt="ibm" width="100%">
 </p>
 
+<p align="center"> 
+<img src="Compose camp winnings.png" alt="ibm" width="100%">
+</p>
 
 
 <p align="center"> 
@@ -130,13 +133,6 @@ width="30%">
 </p>
 
 
-
-
-
-<p align="center"> 
-
-<img src="Compose camp winnings.png" alt="ibm" width="100%">
-</p>
 
 
 
