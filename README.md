@@ -70,6 +70,13 @@
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Aadhaar-debug&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
 
 
+
+<p align="center"> 
+<img src="matrics1.png" alt="ibm" width="100%">
+</p>
+
+
+
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aadhaar-debug" alt="Aadhaar-debug" /></a>
 </p>
