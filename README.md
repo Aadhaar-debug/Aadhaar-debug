@@ -68,15 +68,32 @@
 
 
 
+
+
+
+
 <p align="center"> 
 <img src="newmatrics1.png" alt="ibm" width="100%">
 </p>
+
+<p align="center"> 
+<img src="languages.png" alt="ibm" width="100%">
+</p>
+
 
 
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aadhaar-debug" alt="Aadhaar-debug" /></a>
 </p>
+
+
+
+
+
+
+
+
 
 **📫 How to Reach me:**
 <p align="left">
