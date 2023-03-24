@@ -69,7 +69,7 @@
 
 
 <p align="center"> 
-<img src="matrics1.png" alt="ibm" width="100%">
+<img src="newmatrics1.png" alt="ibm" width="100%">
 </p>
 
 
