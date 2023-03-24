@@ -59,15 +59,17 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadhaar-debug"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 
 
 <p align="center"> 
 <img src="skyline.png" alt="ibm" width="100%">
 </p>
 
+
+
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 <!--   grid-snake -->
