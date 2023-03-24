@@ -61,9 +61,6 @@
 
 
 
-<p align="center"> 
-<img src="skyline.png" alt="ibm" width="100%">
-</p>
 
 
 
